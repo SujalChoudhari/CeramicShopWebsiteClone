@@ -1,0 +1,31 @@
+#hero {
+    height: 90vh;
+    color: #fff;
+    background: url("/img/hero.avif");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+#hero div {
+    margin: 0px auto;
+    padding: 30vh 0px;
+    width: 50%;
+    text-align: center;
+}
+
+#hero div h1 {
+    font-size: 60px;
+}
+
+#hero div p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#hero div a {
+    background-color: #fff;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+}

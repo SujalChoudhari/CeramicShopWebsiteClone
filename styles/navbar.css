@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 2px 5px 1px #ddd;
+    height: 10vh;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav img {
+    margin: 20px;
+    height: 20px;
+}
+
+nav ul li {
+    list-style-type: none;
+    margin-top: 20px;
+    margin-right: 30px;
+}
