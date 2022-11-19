@@ -1,0 +1,39 @@
+#display2 {
+    background: url("/img/display2.avif");
+    background-position: center;
+    background-size: cover;
+    /* margin-bottom: 10px; */
+    height:90vh;
+}
+
+#display2 div {
+    margin: auto;
+    width: 50%;
+    padding: 35vh 0px 0px 0px;
+    text-align: center;
+}
+
+#display2 h2 {
+    color: #444;
+    padding: 30px;
+    font-size: 65px;
+}
+
+#display2 a {
+    background-color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 15px 25px;
+    color: #111;
+}
+
+#display2 input {
+    margin-bottom: 30px;
+    padding: 10px 40px;
+    font-size: 15px;
+    background-color: rgba(255,255,255,.5);
+    border: none;
+    outline: none;
+    
+}
+

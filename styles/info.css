@@ -1,0 +1,31 @@
+#info {
+    margin-top: 15vh;
+    display: flex;
+    justify-content: center;
+}
+
+#info img {
+    width: 400px;;
+}
+
+.info-item {
+    margin-bottom: 70px;
+    padding-left: 10vw;
+}
+
+.info-item h3 {
+    font-size: 40px;
+    margin: 20px 0px 30px 0px;
+}
+
+.info-item p {
+    font-size: 20px;
+    margin: 0px 0px 40px 0px;
+}
+
+.info-item a{
+    padding: 20px 30px 20px 30px;
+    border: 1px solid #111;
+    text-decoration: none;
+    color: #111;
+}

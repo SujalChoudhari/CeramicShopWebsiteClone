@@ -1,0 +1,33 @@
+#display1 {
+    background: url("/img/display1.avif");
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 10px;
+    height:90vh;
+}
+
+#display1 div {
+    margin: auto;
+    width: 50%;
+    padding: 35vh;
+    text-align: center;
+}
+
+#display1 h2 {
+    color: #444;
+    padding: 30px;
+    font-size: 65px;
+}
+
+#display1 p {
+    margin-bottom: 60px;
+    font-size: 30px;
+}
+
+#display1 a {
+    background-color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 15px 25px;
+    color: #111;
+}

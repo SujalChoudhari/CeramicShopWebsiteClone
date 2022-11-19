@@ -1,0 +1,35 @@
+#footer div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#footer {
+    background-color: #f1f1f1;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    padding-left: 5vh;
+}
+
+#footer div ul {
+    display: flex;
+    justify-content: space-around;
+    height:8vh;
+}
+
+#footer div img {
+    margin: 20px;
+    height: 20px;
+}
+
+#links ul li {
+    list-style-type: none;
+    margin-top: 20px;
+    margin-right: 5vw;
+    text-decoration: underline;
+}
+
+#handles ul li {
+    margin-right: 10px;
+    list-style-type: none;
+}
